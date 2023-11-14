@@ -5,6 +5,9 @@ It is reccomended to first insert the Grasshopper components into the desired .g
 
 **WARNING:** Currently only Meshes are supported by the client. Other geometry types will be dropped
 
+
+Usage sample (Grasshopper model source: [Kangaroo-examples by Dan Pike](https://github.com/Dan-Piker/Kangaroo-examples))
+![Grasshopper and OwlXR side-by-side](Media/sample.png)
 ## Developing the project
 
 ### DotNet
