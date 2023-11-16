@@ -7,7 +7,10 @@ It is reccomended to first insert the Grasshopper components into the desired .g
 
 
 Usage sample (Grasshopper model source: [Kangaroo-examples by Dan Pike](https://github.com/Dan-Piker/Kangaroo-examples))
+
 ![Grasshopper and OwlXR side-by-side](Media/sample.png)
+
+Currently XR pinch and grab actions are mapped to increase/decrease of parameter
 ## Developing the project
 
 ### DotNet
